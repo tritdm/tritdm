@@ -1,8 +1,6 @@
 # Welcome to my page
 
-<h2 align="center">
-Github Stats 
-</h2>
+<h2 align="center"> Github Stats </h2>
 
 <div align="center">
   <a href="#" title="Ta Dien Minh Tri">
@@ -12,6 +10,10 @@ Github Stats
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tritdm&amp;show_icons=true&amp;theme=synthwave&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;">
   </a>
 </div>
+
+<br>
+
+<h2 align="center"> How to contact me </h2>
 
 <div align="center">
   <!--<a href="https://trungquandev.com" rel="nofollow">

@@ -1,5 +1,7 @@
 <h1 align="center"> Welcome to my page </h2>
 
+<h3> My name is Ta Dien Minh Tri. I am an undergraduate student at University of Infomation Technology faculty Computer Engineering, major in Embedded. 
+
 <br>
 
 <h2 align="center"> Github Stats </h2>
@@ -9,13 +11,13 @@
     <img width="315" align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tritdm&amp;hide=c%23,%2b%2b,Cuda&amp;title_color=e2e9ec&amp;text_color=e5289e&amp;icon_color=ef8539&amp;bg_color=2b213a&amp;langs_count=6&amp;layout=compact&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;">
   </a>
   <a href="#" title="Ta Dien Minh Tri">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tritdm&amp;show_icons=true&amp;theme=synthwave&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tritdm&hide=prs,issues,contribs&amp;show_icons=true&amp;theme=synthwave&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;">
   </a>
 </div>
 
 <br>
 
-<h2 align="center"> How to contact me </h2>
+<h2 align="center"> How to reach me </h2>
 
 <div align="center">
   <!--<a href="https://trungquandev.com" rel="nofollow">
@@ -34,3 +36,5 @@
     <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/gmail.png" alt="tadienminhtri-email" style="max-width: 100%;"/>
   </a>
 </div>
+
+<br>

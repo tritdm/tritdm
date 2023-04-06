@@ -1,4 +1,6 @@
-# Welcome to my page
+<h1 align="center"> Welcome to my page </h2>
+
+<br>
 
 <h2 align="center"> Github Stats </h2>
 

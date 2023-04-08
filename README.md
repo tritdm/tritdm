@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my page </h2>
 
-<h3> My name is Ta Dien Minh Tri. I am an undergraduate student at University of Infomation Technology faculty Computer Engineering, major in Embedded. 
+<h3> My name is Ta Dien Minh Tri. I am an undergraduate student at University of Infomation Technology, Faculty of Computer Engineering, major in Embedded. 
 
 <br>
 

@@ -20,7 +20,7 @@
     <img width="315" align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tritdm&amp;hide=c%23,%2b%2b,Cuda&amp;title_color=ff0055&amp;text_color=03d8f3&amp;icon_color=141321&amp;bg_color=141321&amp;langs_count=4&amp;layout=compact&amp;border_color=00ffc8&amp;hide_border=true" style="max-width: 100%;">
   </a>
   <a href="#" title="Ta Dien Minh Tri">
-    <img align="right" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tritdm&theme=2077" style="max-width: 100%;">
+    <img align="right" width="513" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tritdm&theme=2077" style="max-width: 100%;">
   </a>
 </div>
 

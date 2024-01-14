@@ -1,6 +1,6 @@
-<h1 align="center"> Hello </h1>
+<h1 align="center"> Yo </h1>
 
-## I am ~~Spider Man~~ Ta Dien Minh Tri. I am an undergraduate student at University of Infomation Technology faculty of Computer Engineering, major in Embedded Systems and IoT. 
+## I am ~~Spider Man~~ Ta Dien Minh Tri. I am an undergraduate student at the University of Infomation Technology faculty of Computer Engineering, majoring in Embedded Systems and IoT. 
 
 <h2 align="center"> Github Stats </h2>
 <div align="center">
@@ -25,7 +25,7 @@
   <!--<a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
     <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/youtube-play.png" style="max-width: 100%;">
   </a>!-->
-  <a href="https://join.skype.com/invite/r4w5OOWuY92w" target="blank">
+  <a href="https://join.skype.com/invite/pNMrzFkuqCmY" target="blank">
     <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/skype.png" alt="tadienminhtri-skype" style="max-width: 100%;"/>
   </a>
   <a href="mailto:20520326@gm.uit.edu.vn" target="top">

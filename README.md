@@ -3,7 +3,6 @@
 ## I am ~~Spider Man~~ Ta Dien Minh Tri.
 * **Majoring in Embedded Systems and IoT.**
 * **Undergraduate student at the University of Infomation Technology faculty of Computer Engineering.** 
-* **Collaborator at Combros Technology Co., LTD.**
 ## Skills:
 * **Technical**: C/C++, Embedded System and IoT
 * **Protocols**: UART, I2C, SPI, CAN, MQTT(s), Bluetooth
